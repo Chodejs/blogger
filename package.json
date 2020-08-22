@@ -1,0 +1,24 @@
+{
+  "name": "blog1",
+  "version": "1.0.0",
+  "description": "Node Blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chodejs/blogger.git"
+  },
+  "author": "Christopher Cameron Tow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chodejs/blogger/issues"
+  },
+  "homepage": "https://github.com/Chodejs/blogger#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
